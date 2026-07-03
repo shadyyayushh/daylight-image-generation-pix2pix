@@ -55,61 +55,61 @@ Each comparison image contains:
 
 ### Comparison 1
 
-![Comparison 1](results/comparison1.png)
+![Comparison 1](Results/comparison1.png)
 
 ---
 
 ### Comparison 2
 
-![Comparison 2](results/comparison2.png)
+![Comparison 2](Results/comparison2.png)
 
 ---
 
 ### Comparison 3
 
-![Comparison 3](results/comparison3.png)
+![Comparison 3](Results/comparison3.png)
 
 ---
 
 ### Comparison 4
 
-![Comparison 4](results/comparison4.png)
+![Comparison 4](Results/comparison4.png)
 
 ---
 
 ### Comparison 5
 
-![Comparison 5](results/comparison5.png)
+![Comparison 5](Results/comparison5.png)
 
 ---
 
 ### Comparison 6
 
-![Comparison 6](results/comparison6.png)
+![Comparison 6](Results/comparison6.png)
 
 ---
 
 ### Comparison 7
 
-![Comparison 7](results/comparison7.png)
+![Comparison 7](Results/comparison7.png)
 
 ---
 
 ### Comparison 8
 
-![Comparison 8](results/comparison8.png)
+![Comparison 8](Results/comparison8.png)
 
 ---
 
 ### Comparison 9
 
-![Comparison 9](results/comparison9.png)
+![Comparison 9](Results/comparison9.png)
 
 ---
 
 ### Comparison 10
 
-![Comparison 10](results/comparison10.png)
+![Comparison 10](Results/comparison10.png)
 
 ---
 
@@ -141,10 +141,10 @@ daylight-image-generation-pix2pix/
 ├── Pix2Pix_Daylight_Generation.ipynb
 ├── Final_Project_Report.pdf
 ├── pix2pix_loss_curve.png
-├── checkpoints/
+├── Checkpoints/
 │   ├── Generator checkpoints
 │   └── Discriminator checkpoints
-└── results/
+└── Results/
     ├── comparison1.png
     ├── ...
     ├── comparison10.png
