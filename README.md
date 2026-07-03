@@ -163,6 +163,11 @@ daylight-image-generation-pix2pix/
 
 ---
 
+## ⚠️ Note
+
+This project was developed and trained using **Google Colab**. Some file paths in the notebook (for example, `/content/drive/MyDrive/...`) are specific to the original development environment.
+
+If you wish to run this project, please update the dataset, checkpoint, and output paths according to your own local system or Google Drive directory structure.
 ## 📌 Future Improvements
 
 - Train on larger and more diverse datasets.
